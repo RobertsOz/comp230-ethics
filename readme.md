@@ -24,5 +24,5 @@ http://journals.sagepub.com/doi/abs/10.1177/1046878110366277
 https://link.springer.com/chapter/10.1007/978-94-007-2777-9_32  
 *Technology, agency, and community: The case of modding in World of Warcraft*  
 https://books.google.co.uk/books?hl=en&lr=&id=GUwkWX-OOigC&oi=fnd&pg=PA174&dq=modding&ots=4CHu60alDX&sig=eWzLTtjOM8NscDnRTwgVAozeA5U#v=onepage&q=modding&f=false  
-*Profiting from innovative user communities: How firms organize the production of user modifications in the computer games industry*
+*Profiting from innovative user communities: How firms organize the production of user modifications in the computer games industry*  
 https://ideas.repec.org/p/ivs/iivswp/04-03.html
