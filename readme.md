@@ -1,6 +1,6 @@
-**Should you allow modding for your game?**
+**Are game developers risking legal consequences by modding games?**
 
-There has been a lot of controversy about modding in the past couple years with steam coming out with paid mods and Bethesda bringing it back as Creating club. Then there are companies like Rockstar who do not want modding in their new games, because their business model has pivoted to an online micro transactions one. But without modding some of the most popular games of all time might exist today, things like Counter-strike, Dota 2, Day Z and Garry's mod.
+There has been a lot of controversy about modding in the past couple years with steam coming out with paid mods and Bethesda bringing it back as Creating club. Then there are companies like Rockstar who do not want modding in their new games, because their business model has pivoted to an online micro transactions one. But without modding some of the most popular games of all time might not exist today, things like Counter-strike, Dota 2, Day Z and Garry's mod.
 
 *When the Game Is Not Enough: Motivations and Practices Among Computer Game Modding Culture*  
 http://journals.sagepub.com/doi/abs/10.1177/1555412009359765  
@@ -26,3 +26,13 @@ https://link.springer.com/chapter/10.1007/978-94-007-2777-9_32
 https://books.google.co.uk/books?hl=en&lr=&id=GUwkWX-OOigC&oi=fnd&pg=PA174&dq=modding&ots=4CHu60alDX&sig=eWzLTtjOM8NscDnRTwgVAozeA5U#v=onepage&q=modding&f=false  
 *Profiting from innovative user communities: How firms organize the production of user modifications in the computer games industry*  
 https://ideas.repec.org/p/ivs/iivswp/04-03.html
+*Mod Chips Found Legal In The UK*  
+https://www.techdirt.com/articles/20080612/0055131385.shtml  
+*Take two cease and desist of OpenIV*  
+http://gtaforums.com/topic/889348-take-two-vs-modding/  
+*Take Two backs down after backlash*  
+https://www.engadget.com/2017/06/23/rockstar-games-take-two-pc-mod-open-iv/  
+*Modding for fun and for Profit*  
+https://virtualcrimlaw.wordpress.com/2014/09/29/modding-for-fun-and-for-profit/  
+*Why Blizzard sues some mods and allow others*  
+https://www.polygon.com/2017/3/23/15034994/blizzard-mods-bnetd-org-lawsuit-world-of-warcarft  
